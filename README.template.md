@@ -1,1 +1,1 @@
-[![Nadia's GitHub Banner](./assets/nadiadubellbanner.png)]
+![Nadia's GitHub Banner](./assets/nadiadubellbanner.png)
