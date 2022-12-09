@@ -35,4 +35,4 @@ I'm Nadia DuBell a results oriented Software Developer with experience in React 
 
 ## GITHUB STATS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiadubell&langs_count=8)](https://github.com/nadiadubell/github-readme-stats)
+![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiadubell&show_icons=true&theme=radical)
