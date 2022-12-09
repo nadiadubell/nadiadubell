@@ -32,3 +32,13 @@ I'm Nadia DuBell a results oriented Software Developer with experience in React 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" alt="after-effects-logo" height="45" width="45" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="adobe-xd-logo" heigth="45" width="45" />     
 </p>
+
+## GITHUB STATS
+
+<a href="https://github.com/nadiadubell">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadiadubell&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/nadiadubell">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=nadiadubell&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Nadia's GitHub Stats" />
+</a>
