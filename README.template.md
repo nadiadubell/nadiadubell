@@ -35,4 +35,4 @@ I'm Nadia DuBell a results oriented Software Developer with experience in React 
 
 ## GITHUB STATS
 
-![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiadubell&show_icons=true&theme=radical)
+![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiadubell&show_icons=true&theme=algolia)
