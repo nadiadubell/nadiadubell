@@ -2,11 +2,13 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-profile-badge?style=flat&logo=linkedin&logocolor=white&color=blue)](https://www.linkedin.com/in/nadiadubell/)
 
-Hi there 👋
+### Hi There! 👋
 
-I'm Nadia DuBell a results oriented Software Developer with experience in React JS for creating interactive user interfaces. Strong understanding of object-oriented programming and back end technologies. Software Developer with professional Graphic Design experience. Five years of producing high-quality media has given me the unique perspective of front end design and layout as well as customer and user objectives. I realized my passion for creative problem solving would be best utilized by becoming a developer. It was a natural gravitation to my current career path of writing JavaScript across the full stack for web applications.
+- 🌱 I'm currently learning Cloud Computing Technologies
+- 👯 I'm looking to contribute to open source projects.
+- ⚡ Fun Fact: I enjoy knitting, two-stepping, yoga and art.
 
-## DEVELOPMENT TOOLS & SKILLS
+#### DEVELOPMENT TOOLS & SKILLS
 
 <p align="left"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react-logo" height="45" width="45" /> 
@@ -24,7 +26,7 @@ I'm Nadia DuBell a results oriented Software Developer with experience in React 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode-logo" height="45" width="45" />   
 </p>
 
-## DESIGN SOFTWARE
+#### DESIGN SOFTWARE
 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop-logo" height="45" width="45" />
@@ -33,6 +35,8 @@ I'm Nadia DuBell a results oriented Software Developer with experience in React 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="adobe-xd-logo" heigth="45" width="45" />     
 </p>
 
-## GITHUB STATS
+## Projects
 
-![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiadubell&show_icons=true&theme=algolia)
+<!-- ## GITHUB STATS
+
+![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiadubell&show_icons=true&theme=algolia) -->
