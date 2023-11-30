@@ -2,7 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-profile-badge?style=flat&logo=linkedin&logocolor=white&color=blue)](https://www.linkedin.com/in/nadiadubell/)
 
-### Hi There! 👋
+## Hi There! 👋
 
 - 🌱 I'm currently learning Cloud Computing Technologies
 - 👯 I'm looking to contribute to open source projects.
@@ -23,7 +23,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="linux-logo" height="45" width="45" />  
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git-logo" height="45" width="45" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github-logo" height="45" width="45" />    
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode-logo" height="45" width="45" />   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"  alt="vscode-logo" height="45" width="45" />   
 </p>
 
 #### DESIGN SOFTWARE
@@ -36,6 +36,25 @@
 </p>
 
 ## Projects
+
+### Portfolio Site
+
+![Portfolio Site Project](./assets/PortfolioSiteScreenshot.PNG)[Click here to see the live project](https://www.nadiadubell.dev/)
+
+### Social Dev Stack
+
+![Social Dev Project](./assets/SocialDevStackScreenshoot.PNG)[Click here to see the live project](https://dev-social-stack.netlify.app/)
+
+For login use
+
+- username: stacker22
+- password: password
+
+Please only post family friendly content if testing functionality.
+
+### Book Tracker
+
+![Book Tracker Project](./assets/BookTrackerScreenshot.JPG)[Click here to see the live project](https://book-tracker-nd.netlify.app/)
 
 <!-- ## GITHUB STATS
 
