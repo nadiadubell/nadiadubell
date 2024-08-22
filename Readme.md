@@ -29,7 +29,10 @@
     </picture>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux-logo" height="45" width="45" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git-logo" height="45" width="45" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github-logo" height="45" width="45" />    
+   <picture>
+        <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" media="(prefers-color-scheme: dark)">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github-logo" height="45" width="45" />
+   </picture>    
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"  alt="vscode-logo" height="45" width="45" />   
 </p>
 
