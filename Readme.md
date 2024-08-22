@@ -24,7 +24,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java-logo" height="45" width="45">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql-logo" height="45" width="45" />
     <picture>
-        <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" media="(prefers-color-scheme: dark)">
+        <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" media="(prefers-color-scheme: dark)" alt="ubuntu-logo">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu-logo" height="45" width="45" />
     </picture>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="linux-logo" height="45" width="45" />
