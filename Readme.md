@@ -27,7 +27,7 @@
         <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" media="(prefers-color-scheme: dark)" alt="ubuntu-logo">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu-logo" height="45" width="45" />
     </picture>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" alt="linux-logo" height="45" width="45" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux-logo" height="45" width="45" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git-logo" height="45" width="45" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github-logo" height="45" width="45" />    
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"  alt="vscode-logo" height="45" width="45" />   
