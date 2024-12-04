@@ -48,6 +48,10 @@
 
 ![Portfolio Site Project](./assets/PortfolioSiteScreenshot.PNG)[Click here to see the live project](https://www.nadiadubell.dev/)
 
+### AWS Static Website Example
+
+![AWS Static Website Example](./assets/HomePageScreenshot.png)[Click here to see the live project](http://nd-static-website-example.s3-website-us-east-1.amazonaws.com/)
+
 ### Social Dev Stack
 
 ![Social Dev Project](./assets/SocialDevStackScreenshoot.PNG)[Click here to see the live project](https://dev-social-stack.netlify.app/)
